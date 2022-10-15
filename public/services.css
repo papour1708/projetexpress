@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+}
+#service {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#service img{
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+}
+#title {
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
